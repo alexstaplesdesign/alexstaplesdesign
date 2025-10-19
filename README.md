@@ -1,20 +1,22 @@
-# Hi there! 👋 I'm from Pixel Perfect Designs
+# Hi there! 👋 I'm Alex Staples
 
-## 🎨 About Us
-Welcome to **Pixel Perfect Designs** - where creativity meets precision! We specialize in creating stunning, responsive websites and digital experiences that captivate audiences and drive results.
+## 🎓 About Me
+I'm a **Computer Science student** passionate about creating beautiful, functional digital experiences! Currently pursuing my BA in Computer Science while diving deep into the world of web development, UI/UX design, and everything pixel-perfect.
 
-## 🚀 What We Do
-- **Web Design & Development** - Custom websites that look amazing on every device
-- **UI/UX Design** - User-centered design that enhances engagement
-- **Responsive Design** - Pixel-perfect layouts that work everywhere
-- **Brand Identity** - Complete visual identity solutions
-- **Digital Marketing** - Websites optimized for conversions
+## 🚀 What I'm Learning & Building
+- **Web Development** - Crafting responsive websites that look great on every device
+- **UI/UX Design** - Learning user-centered design principles that make apps intuitive
+- **Graphic Design** - Exploring visual design and branding concepts
+- **Coding & Scripting** - Building my programming foundation across multiple languages
+- **Academic Projects** - Turning coursework into portfolio-worthy pieces
 
-## 🛠️ Technologies We Use
+## 🛠️ Technologies I'm Working With
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,56 +32,62 @@ Welcome to **Pixel Perfect Designs** - where creativity meets precision! We spec
 
 [![Live Demo](https://img.shields.io/badge/🌐_View_Live-blue?style=for-the-badge)](https://PixelPerfectDesigns.github.io/bottini-fuel-clone) [![GitHub](https://img.shields.io/badge/📂_Source-black?style=for-the-badge&logo=github)](https://github.com/PixelPerfectDesigns/bottini-fuel-clone)
 
-**Enterprise-level front-end showcase** featuring pixel-perfect design recreation, modern CSS architecture (2000+ documented lines), WCAG 2.1 AA accessibility compliance, and comprehensive documentation. Built with HTML5, CSS3, and vanilla JavaScript.
+**My biggest front-end challenge yet!** I recreated this enterprise website to practice advanced CSS techniques, accessibility standards, and professional documentation. This project pushed me to write 2000+ lines of well-documented CSS and really understand responsive design principles.
 
-**Key Features:** Responsive design • Performance optimization • Accessibility compliance • Professional documentation
+**What I learned:** Advanced CSS architecture • Accessibility compliance • Performance optimization • Professional workflow
 
 ---
 
-## 🔥 Featured Portfolio Projects
+## 🔥 Recent Course Projects
 
-### 🐠 Keith's Aquascaping Services
-A beautiful, responsive website for an aquascaping business featuring:
-- Modern, clean design with stunning aquarium imagery
-- Responsive layout optimized for all devices
-- Service showcase and contact integration
-- **Tech Stack:** HTML5, CSS3, JavaScript
+### ⚾ GameFrame Project
+**Personal Project** - A specialized sports graphics website where parents can upload images of their kids and I transform them into professional-quality graphic cards:
+- User-friendly image upload and processing system
+- Custom graphic design templates and layouts
+- Professional sports card creation and editing tools
+- **What I practiced:** Web development, image processing, graphic design, user experience design
 
 ### 🎮 LevelUp Gaming Community
-An engaging gaming community platform featuring:
-- Dynamic gaming-themed design
-- Community features and event management
-- Interactive elements and media integration
-- **Tech Stack:** HTML5, CSS3, JavaScript
+**Course Project** - A gaming community platform featuring:
+- Dynamic, engaging visual design
+- Interactive elements and smooth animations
+- Community-focused user experience
+- **Skills developed:** Advanced CSS, JavaScript interactivity
 
-## 💼 Our Process
-1. **Discovery** - Understanding your vision and goals
-2. **Design** - Creating pixel-perfect mockups and prototypes
-3. **Development** - Building responsive, fast-loading websites
-4. **Testing** - Ensuring cross-browser compatibility
-5. **Launch** - Deploying your site with ongoing support
+### � Corner Grocer C++ Project
+**Latest Assignment** - A comprehensive inventory management system:
+- Item frequency analysis and data processing
+- Menu-driven console application with user interaction
+- File I/O operations and data persistence
+- **Focus:** C++ fundamentals, data structures, algorithm implementation
 
-## 📈 Current Focus
-- 🔭 Working on advanced JavaScript frameworks
-- 🌱 Learning modern CSS techniques and animations
-- 👯 Looking to collaborate on innovative web projects
+## 🎯 My Learning Journey
+**Currently Working On:**
+- 🔭 Expanding my JavaScript skills and exploring frameworks
+- 🌱 Diving deeper into UI/UX design principles
+- 📚 Completing my Computer Science coursework
+- 🎨 Building a solid foundation in graphic design
+
+**Always Excited About:**
+- 👯 Collaborating on creative coding projects
 - 🤔 Exploring new design trends and technologies
-- 💬 Ask us about responsive design and user experience
+- 💬 Discussing responsive design and user experience
+- 🚀 Turning ideas into functional, beautiful websites
 
-## 📫 Get In Touch
-- 🌐 **Website:** [Coming Soon]
-- 📧 **Email:** info@pixelperfectdesigns.com
-- 💼 **LinkedIn:** [Your LinkedIn]
-- 🐦 **Twitter:** [@PixelPerfectDes]
-- 📱 **Instagram:** [@pixelperfectdesigns]
+## 📫 Let's Connect!
+- 🌐 **Portfolio:** [Coming Soon - Building something awesome!]
+- 📧 **Email:** alex@pixelperfectdesigns.com
+- 💼 **LinkedIn:** [Connect with me!]
+- 🐦 **Twitter:** [@AlexStaples_Dev]
 
-## ⚡ Fun Facts
-- We believe every pixel matters! 🎯
-- Coffee-powered development sessions ☕
-- We turn ideas into digital reality ✨
-- Always pushing the boundaries of web design 🚀
+## ⚡ Fun Facts About Me
+- I believe every pixel matters! 🎯
+- Fueled by coffee and curiosity ☕
+- I love turning creative ideas into digital reality ✨
+- Currently obsessed with perfecting responsive layouts 📱
+- **PixelPerfectDesigns** is my creative alias and potential future business name! 🚀
 
 ---
-### 💡 "Great design is not just what it looks like – great design is how it works." - Steve Jobs
+### 💡 "The best way to learn is by building something you're excited about." - Me, probably after staying up too late coding 😄
 
-⭐ **Let's create something amazing together!** ⭐
+⭐ **Always learning, always building, always improving!** ⭐
