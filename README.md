@@ -28,24 +28,15 @@ I'm a **Computer Science student** passionate about creating beautiful, function
 
 ## 🌟 Featured Project: 
 
-### 🔥 Bottini Fuel Website Clone
-
-[![Live Demo](https://img.shields.io/badge/🌐_View_Live-blue?style=for-the-badge)](https://PixelPerfectDesigns.github.io/bottini-fuel-clone) [![GitHub](https://img.shields.io/badge/📂_Source-black?style=for-the-badge&logo=github)](https://github.com/PixelPerfectDesigns/bottini-fuel-clone)
-
-**My biggest front-end challenge yet!** I recreated this enterprise website to practice advanced CSS techniques, accessibility standards, and professional documentation. This project pushed me to write 2000+ lines of well-documented CSS and really understand responsive design principles.
-
-**What I learned:** Advanced CSS architecture • Accessibility compliance • Performance optimization • Professional workflow
-
----
-
-## 🔥 Recent Course Projects
-
 ### ⚾ GameFrame Project
 **Personal Project** - A specialized sports graphics website where parents can upload images of their kids and I transform them into professional-quality graphic cards:
 - User-friendly image upload and processing system
 - Custom graphic design templates and layouts
 - Professional sports card creation and editing tools
 - **What I practiced:** Web development, image processing, graphic design, user experience design
+---
+
+## 🔥 Recent Course Projects
 
 ### 🎮 LevelUp Gaming Community
 **Course Project** - A gaming community platform featuring:
