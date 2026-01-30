@@ -82,14 +82,12 @@ I'm a **Computer Science student** passionate about creating beautiful, function
 ## 📫 Let's Connect!
 - 🌐 **Portfolio:** [Coming Soon - Building something awesome!]
 - 📧 **Email:** alex@pixelperfectdesigns.com
-- 💼 **LinkedIn:** [Connect with me!]
-- 🐦 **Twitter:** [@AlexStaples_Dev]
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/alex-staples-59738699/)
 
 ## ⚡ Fun Facts About Me
-- I believe every pixel matters! 🎯
-- Fueled by coffee and curiosity ☕
+- Youth sports coach 🎯
+- 3 girls dad ☕
 - I love turning creative ideas into digital reality ✨
-- Currently obsessed with perfecting responsive layouts 📱
 - **PixelPerfectDesigns** is my creative alias and potential future business name! 🚀
 
 ---
