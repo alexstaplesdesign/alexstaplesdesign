@@ -39,7 +39,7 @@ I'm a **Computer Science student** passionate about creating beautiful, function
 [![FastAPI](https://img.shields.io/badge/FastAPI-modern-green?style=flat-square&logo=fastapi)](https://github.com/PixelPerfectDesigns/data-validator-app)
 [![Tests](https://img.shields.io/badge/Tests-22%20passing-brightgreen?style=flat-square)](https://github.com/PixelPerfectDesigns/data-validator-app)
 
-🔗 **[View Repository](https://github.com/PixelPerfectDesigns/data-validator-app)** | 🌐 **[Live Demo](https://github.com/PixelPerfectDesigns/data-validator-app#quick-start)**
+🔗 **[View Repository](https://github.com/PixelPerfectDesigns/data-validator-app)** | ⚡ **[Quick Start Guide](https://github.com/PixelPerfectDesigns/data-validator-app#quick-start)**
 
 **Key Features:**
 - 🎨 **Modern UI/UX** - Responsive design with Tailwind CSS and Alpine.js
