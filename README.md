@@ -57,7 +57,7 @@ I'm a **Computer Science student** passionate about creating beautiful, function
 - Community-focused user experience
 - **Skills developed:** Advanced CSS, JavaScript interactivity
 
-###   Corner Grocer C++ Project
+### � Corner Grocer C++ Project
 **Latest Assignment** - A comprehensive inventory management system:
 - Item frequency analysis and data processing
 - Menu-driven console application with user interaction
