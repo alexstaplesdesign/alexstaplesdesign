@@ -32,6 +32,27 @@ I'm a **Computer Science student** passionate about creating beautiful, function
 
 ## 🌟 Featured Project: 
 
+### 📊 CSV Data Validator
+**A professional-grade CSV validation tool with modern web interface**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://github.com/PixelPerfectDesigns/data-validator-app)
+[![FastAPI](https://img.shields.io/badge/FastAPI-modern-green?style=flat-square&logo=fastapi)](https://github.com/PixelPerfectDesigns/data-validator-app)
+[![Tests](https://img.shields.io/badge/Tests-22%20passing-brightgreen?style=flat-square)](https://github.com/PixelPerfectDesigns/data-validator-app)
+
+🔗 **[View Repository](https://github.com/PixelPerfectDesigns/data-validator-app)** | 🌐 **[Live Demo](https://github.com/PixelPerfectDesigns/data-validator-app#quick-start)**
+
+**Key Features:**
+- 🎨 **Modern UI/UX** - Responsive design with Tailwind CSS and Alpine.js
+- 🛠️ **Dual Interface** - Both CLI tool and web dashboard
+- 🧪 **Comprehensive Testing** - 22 automated tests ensuring reliability
+- 📁 **Sample Files** - Built-in test data for immediate usage
+- 🔍 **Smart Validation** - Customer ID, email, name, and date validation
+- 🚀 **Production Ready** - FastAPI backend with GitHub Actions CI/CD
+
+**Tech Stack:** Python | FastAPI | Tailwind CSS | Alpine.js | Pytest | GitHub Actions
+
+---
+
 ### ⚾ GameFrame Project
 **Personal Project** - A specialized sports graphics website where parents can upload images of their kids and I transform them into professional-quality graphic cards:
 - User-friendly image upload and processing system
