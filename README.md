@@ -1,8 +1,9 @@
 # Alex Staples
 
-BA in Computer Science. Background in design — I've been making things look good for a while, now I make them work too.
-
-Youth sports coach. Dad of 3.
+Actively working toward a BA in Computer Science. 
+I like design, and making cool stuff.
+Youth baseball coach.  Girl dad of 3.
+I'm searching for a place to land.
 
 ## Stack
 
