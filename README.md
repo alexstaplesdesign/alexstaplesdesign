@@ -21,4 +21,4 @@ Most of what's here is a mix of coursework and personal projects.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/alex-staples-59738699/) · alex@pixelperfectdesigns.com
+[LinkedIn](https://www.linkedin.com/in/alex-staples-59738699/)
