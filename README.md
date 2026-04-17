@@ -40,7 +40,7 @@ Multi-page site for a real bar and grill in Monroe, NY, open since 1934. No Java
 
 ---
 
-### [GameFrame](https://github.com/alexstaplesdesign/gameframe-website)
+### [GameFrame](https://github.com/alexstaplesdesign/gameframe-website) · [Live Site →](https://alexstaplesdesign.github.io/gameframe-website/)
 
 Website for a sports graphics side project. Tailwind CDN with custom brand color scales, gallery management via a central sample array.
 
