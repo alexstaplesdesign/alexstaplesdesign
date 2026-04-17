@@ -22,19 +22,35 @@ I'm searching for a place to land.
 
 ### Frontend
 
-**[The Captain's Table](https://github.com/alexstaplesdesign/captains-table)** — Multi-page site for a real bar and grill in Monroe, NY, open since 1934. No JavaScript — all interactions are pure CSS. Includes Schema.org JSON-LD for local SEO and a Ken Burns hero with a `prefers-reduced-motion` fallback.
+### [The Vinyl Room](https://github.com/alexstaplesdesign/the-vinyl-room) · [Live Site →](https://thevinylroomny.netlify.app/)
 
-**[Joe Willy's Seafood House](https://github.com/alexstaplesdesign/joe-willys-website)** — Single-page site for a family-owned seafood restaurant in Wappingers Falls, NY, featured on Food Network's *Restaurant: Impossible*. Tailwind CDN with a custom brand config and a frosted-glass pill nav that kicks in on scroll.
+Multi-page site for a cocktail bar and record shop in Beacon, NY. The mobile nav is a custom "Needle Drop" animation: a record button spins up, the screen goes dark, a scan line drops from top to bottom, and the nav links materialize as it passes each one.
 
-**[The Vinyl Room](https://github.com/alexstaplesdesign/the-vinyl-room)** — Multi-page site for a cocktail bar and record shop in Beacon, NY. The mobile nav is a custom "Needle Drop" animation: a record button spins up, the screen goes dark, a scan line drops from top to bottom, and the nav links materialize as it passes each one.
+---
+
+### [Joe Willy's Seafood House](https://github.com/alexstaplesdesign/joe-willys-website) · [Live Site →](https://joewillysfishshack.netlify.app/)
+
+Single-page site for a family-owned seafood restaurant in Wappingers Falls, NY, featured on Food Network's *Restaurant: Impossible*. Tailwind CDN with a custom brand config and a frosted-glass pill nav that kicks in on scroll.
+
+---
+
+### [The Captain's Table](https://github.com/alexstaplesdesign/captains-table) · [Live Site →](https://captainstable.netlify.app/)
+
+Multi-page site for a real bar and grill in Monroe, NY, open since 1934. No JavaScript — all interactions are pure CSS. Includes Schema.org JSON-LD for local SEO and a Ken Burns hero with a `prefers-reduced-motion` fallback.
+
+---
+
+### [GameFrame](https://github.com/alexstaplesdesign/gameframe-website)
+
+Website for a sports graphics side project. Tailwind CDN with custom brand color scales, gallery management via a central sample array.
+
+---
 
 **[PC's Paddock](https://github.com/alexstaplesdesign/pcs_paddock)** — Site for a family-owned restaurant in a renovated 1840s barn in Poughkeepsie, NY. Full-page grain texture generated via an inline SVG `feTurbulence` filter on `body::before` — no image request.
 
 **[LevelUp Gaming Community](https://github.com/alexstaplesdesign/levelup-gaming-community)** — Eight-page gaming community site with a modular CSS system (10 stylesheet files) and a multi-step sign-up form that runs a 1.5s loading state before fading into a confirmation message.
 
 **[Keith's Aquascaping](https://github.com/alexstaplesdesign/keiths-aquascaping-website)** — Portfolio site for an aquascaping business. Self-hosted font via `@font-face`, scroll-triggered entrance animations using IntersectionObserver.
-
-**[GameFrame](https://github.com/alexstaplesdesign/gameframe-website)** — Website for a sports graphics side project. Tailwind CDN with custom brand color scales, gallery management via a central sample array.
 
 **[Bottini Fuel Clone](https://github.com/alexstaplesdesign/bottini-fuel-clone)** — Recreation of the Bottini Fuel site as a front-end exercise. Custom CSS architecture with a documented token system, vanilla JS for mobile nav, anchor scrolling, form validation, and an accordion component.
 
