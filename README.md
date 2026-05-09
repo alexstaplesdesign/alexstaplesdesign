@@ -1,6 +1,6 @@
 # Alex Staples
 
-Actively working toward a BA in Computer Science. 
+Actively working toward a BS in Computer Science. 
 I like design, and making cool stuff.
 Youth baseball coach.  Girl dad of 3.
 I'm searching for a place to land.
