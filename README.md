@@ -22,19 +22,19 @@ I'm searching for a place to land.
 
 ### Frontend
 
-### [The Vinyl Room](https://github.com/alexstaplesdesign/the-vinyl-room) · [Live Site →](https://thevinylroomny.netlify.app/)
+### [The Vinyl Room](https://github.com/alexstaplesdesign/the-vinyl-room) · [Live Site →](https://alexstaplesdesign.github.io/the-vinyl-room/)
 
 Multi-page site for a cocktail bar and record shop in Beacon, NY. The mobile nav is a custom "Needle Drop" animation: a record button spins up, the screen goes dark, a scan line drops from top to bottom, and the nav links materialize as it passes each one.
 
 ---
 
-### [Joe Willy's Seafood House](https://github.com/alexstaplesdesign/joe-willys-website) · [Live Site →](https://joewillysfishshack.netlify.app/)
+### [Joe Willy's Seafood House](https://github.com/alexstaplesdesign/joe-willys-website) · [Live Site →](https://alexstaplesdesign.github.io/joe-willys-website/)
 
 Single-page site for a family-owned seafood restaurant in Wappingers Falls, NY, featured on Food Network's *Restaurant: Impossible*. Tailwind CDN with a custom brand config and a frosted-glass pill nav that kicks in on scroll.
 
 ---
 
-### [The Captain's Table](https://github.com/alexstaplesdesign/captains-table) · [Live Site →](https://captainstable.netlify.app/)
+### [The Captain's Table](https://github.com/alexstaplesdesign/captains-table) · [Live Site →](https://alexstaplesdesign.github.io/captains-table/)
 
 Multi-page site for a real bar and grill in Monroe, NY, open since 1934. No JavaScript — all interactions are pure CSS. Includes Schema.org JSON-LD for local SEO and a Ken Burns hero with a `prefers-reduced-motion` fallback.
 
