@@ -68,6 +68,7 @@ Website for a sports graphics side project. Tailwind CDN with custom brand color
 
 [![SNHU President's List — Spring 2026](https://img.shields.io/badge/SNHU_Presidents_List-Spring_2026-FFD700?style=for-the-badge&logoColor=black)](https://meritpages.com/alexstaples)
 [![SNHU Honor Roll — 2026 C-1](https://img.shields.io/badge/SNHU_Honor_Roll-2026_C--1-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
+[![SNHU Honor Roll — 2026 C-2](https://img.shields.io/badge/SNHU_Honor_Roll-2026_C--2-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
 [![SNHU Honor Roll — 2025 C-5](https://img.shields.io/badge/SNHU_Honor_Roll-2025_C--5-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
 [![SNHU Honor Roll — 2025 C-4](https://img.shields.io/badge/SNHU_Honor_Roll-2025_C--4-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
 [![SNHU Honor Roll — 2025 C-3](https://img.shields.io/badge/SNHU_Honor_Roll-2025_C--3-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
