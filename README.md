@@ -66,15 +66,32 @@ Website for a sports graphics side project. Tailwind CDN with custom brand color
 
 ## Academic Recognition
 
-[![SNHU President's List — Spring 2026](https://img.shields.io/badge/SNHU_Presidents_List-Spring_2026-FFD700?style=for-the-badge&logoColor=black)](https://meritpages.com/alexstaples)
-[![SNHU Honor Roll — 2026 C-1](https://img.shields.io/badge/SNHU_Honor_Roll-2026_C--1-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
-[![SNHU Honor Roll — 2026 C-2](https://img.shields.io/badge/SNHU_Honor_Roll-2026_C--2-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
-[![SNHU Honor Roll — 2025 C-5](https://img.shields.io/badge/SNHU_Honor_Roll-2025_C--5-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
-[![SNHU Honor Roll — 2025 C-4](https://img.shields.io/badge/SNHU_Honor_Roll-2025_C--4-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
-[![SNHU Honor Roll — 2025 C-3](https://img.shields.io/badge/SNHU_Honor_Roll-2025_C--3-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
-[![SNHU Honor Roll — 2025 C-2](https://img.shields.io/badge/SNHU_Honor_Roll-2025_C--2-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
-[![SNHU Honor Roll — 2024 C-4](https://img.shields.io/badge/SNHU_Honor_Roll-2024_C--4-0078BE?style=for-the-badge)](https://meritpages.com/alexstaples)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://meritpages.com/alexstaples"><img src="assets/presidents-list.png" alt="SNHU President's List" height="100"></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/President%27s_List-%C3%972-FFD700?style=for-the-badge&labelColor=333333" alt="President's List x2">
+    </td>
+    <td align="center" width="200">
+      <a href="https://meritpages.com/alexstaples"><img src="assets/honor-roll.png" alt="SNHU Honor Roll" height="100"></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Honor_Roll-%C3%979-0078BE?style=for-the-badge&labelColor=333333" alt="Honor Roll x9">
+    </td>
+  </tr>
+</table>
 
+<details>
+<summary>See terms</summary>
+<br>
+
+**President's List:** Spring 2026, Summer 2026
+
+**Honor Roll:** 2024 C-4, 2025 C-2, 2025 C-3, 2025 C-4, 2025 C-5, 2026 C-1, 2026 C-2, 2026 C-3, 2026 C-4
+
+[Verified on Merit Pages →](https://meritpages.com/alexstaples)
+
+</details>
 ---
 
 [LinkedIn](https://www.linkedin.com/in/alex-staples-59738699/)
